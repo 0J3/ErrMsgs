@@ -3,7 +3,7 @@
   "author": "0J3 <ErrMsgs@wafflepowered.com> (https://twitter.com/0j3_3)",
   "scripts": {
     "demo": "node . DEMO_OUTPUT",
-    "test": ""
+    "test": "node test.js"
   },
   "version": "1.0.3",
   "main": "index.js",
