@@ -1,0 +1,20 @@
+{
+  "name": "errmsgs",
+  "author": {
+    "name": "0J3",
+    "email": "ErrMsgs@wafflepowered.com",
+    "url": "https://twitter.com/0j3_3"
+  },
+  "scripts": {
+    "demo": "node . DEMO_OUTPUT"
+  },
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "folder-hash": "^4.0.0",
+    "get-caller-file": "^2.0.5",
+    "indent-string": "^4.0.0",
+    "js-yaml": "^3.14.0"
+  }
+}
