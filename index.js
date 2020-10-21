@@ -184,12 +184,12 @@ Call Stack:
   }
 }
 
-module.exports = ErrorMessageGen;
-
 // demo output
 if (process.argv.includes("DEMO_OUTPUT"))
   (async () => {
     console.log(
-      await new module.exports().error(new Error("This is some demo output!"))
+      await new ErrorMessageGen().error(new Error("This is some demo output!"))
     );
   })();
+
+module.exports = ErrorMessageGen;
