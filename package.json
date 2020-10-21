@@ -4,7 +4,7 @@
   "scripts": {
     "demo": "node . DEMO_OUTPUT"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "license": "AGPL-3.0-or-later",
   "dependencies": {
