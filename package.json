@@ -5,7 +5,7 @@
     "demo": "node . DEMO_OUTPUT",
     "test": "node test.js"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "license": "AGPL-3.0-or-later",
   "dependencies": {
