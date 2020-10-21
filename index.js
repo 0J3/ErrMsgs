@@ -42,6 +42,7 @@ Call Stack:
       "Made using braincells",
       "Hey, have you heard of errors? Yeah, this program encountered one.",
       "This program exists apparently 👀",
+      "Does this program exist?",
     ];
     this.config = config;
     this.hashConfig = config.hashConfig || {
