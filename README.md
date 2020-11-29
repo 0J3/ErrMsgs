@@ -1,4 +1,4 @@
-# ErrMsgs [![Known Vulnerabilities](https://snyk.io/test/npm/errmsgs/1.0.3/badge.svg)](https://snyk.io/test/npm/errmsgs/1.0.3)
+# [ErrMsgs](https://github.com/0j3/errmsgs) [![Known Vulnerabilities](https://snyk.io/test/npm/errmsgs/1.0.3/badge.svg)](https://snyk.io/test/npm/errmsgs/1.0.3)
 
 A module for generating decent error messages
 
@@ -82,7 +82,7 @@ Module Information:
 Error:
   This is some demo output!
 Call Stack:
-  at C:\Users\Lannan\ErrMsgs\index.js:86:22
+  at C:\Users\Example\Path\A\Test.js:1:69
   at processTicksAndRejections (internal/process/task_queues.js:97:5)
 ```
 
